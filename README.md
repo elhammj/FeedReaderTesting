@@ -1,6 +1,6 @@
 # FeedReaderTesting
 
-It is a web-based application that reads RSS feeds. The main objective is implementing Jasmin testing. 
+It is a web-based application that reads RSS feeds. The main objective is implementing Jasmine testing. 
 
 
 ## Why this Project?
